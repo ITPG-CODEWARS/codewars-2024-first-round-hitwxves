@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css" type="text/css" href="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap" rel="stylesheet">
+<link rel="icon" type="train.png" href="train.png"/>
+<title>Tracks Ahead</title>
+</head>
+<body style="background-color:#F7F7E9">
+
+<div class="logo">
+<a href="#"><img src="Preview.png"></a>
+
+</div>
+<nav>
+<ul>
+<li><a href="index.html">НАЧАЛО</a></li>
+ <li><a href="Trains.html">ВЛАКОВЕ</a></li>
+<li><a href="Help.html">ПОМОЩ</a></li>	
+<li><a href="Contacts.html">КОНТАКТИ</a></li>	
+</ul>
+</nav>
+<center>
+<h3>________________________________________________________________________________________________________________________________________________________________________</h3>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<h1 style="color:#72453b">ДОБРЕ ДОШЛИ В ОФИЦИАЛНИЯ САЙТ НА </h1> <h2 style="display: inline-block">TRACKS</h2> &nbsp &nbsp &nbsp &nbsp &nbsp <h2 style="display: inline-block">AHEAD</h2>
+<p style="color:#ba0e0e">"Your Journey Starts Here!" - Stanley J. Curry (1967-2003)<p/>
+<br/>
+<br/>
+
+
+
+<img height="299" src="file:///C:/Users/User/Desktop/Code%20Wars%202024%20Site/Train1.jpg">
+<img height="299" src="file:///C:/Users/User/Desktop/Code%20Wars%202024%20Site/Train2.jpg">
+<img height="299" src="file:///C:/Users/User/Desktop/Code%20Wars%202024%20Site/Train3.jpg">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<table bgcolor="black"">
+   <tr>
+   
+      <th bgcolor="gray" style="color:white"> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp КАКВО Е TRACKS AHEAD? &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <th/>
+   </tr>
+   <tr>
+      <td bgcolor="lightgrey" > <br> &nbsp &nbsp Tracks Ahead е американскобългарска компания, създадена през 1999 година от Stanley J. Curry,<br> &nbsp &nbsp който за жалост вече не е сред живите. Наскоро създадохме и официалният сайт на компанията, <br> &nbsp &nbsp който ще е вашият основен ресурс за всичко свързано с нашите влаковете! Нашият сайт е създаден <br> &nbsp &nbsp за всички любители на железниците, от начинаещи до опитни ентусиасти. Вашата крайна дестинация <br> &nbsp &nbsp за всички влакове! Независимо дали сте страстен ентусиаст  на железниците, 
+любители на историята <br> &nbsp &nbsp или просто любопитни за света на придвижването, ние ще ви покрием. <br> <br> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+
+Така че качвайте се и нека пътуваме по пистите напред заедно! <br></td>
+   </tr>
+</table>
+<br/>
+<br/>
+<br/>
+<h1 style="font-size:bold" background-color="gray">___________________________________________________________________________________________________________________________________________________</h1>
+<br/>
+
+
+
+
+ <h4 style="color:#ba0e0e"> TRACKS AHEAD (1999-NOW)<h4/> 
+
+
+
+<center/>
+
+</body>
+</html>

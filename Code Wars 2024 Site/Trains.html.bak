@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style1.css" type="text/css" href="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap" rel="stylesheet">
+<link rel="icon" type="train.png" href="train.png"/>
+<title>Tracks Ahead</title>
+</head>
+<body style="background-color:#F7F7E9">
+
+<div class="logo">
+<a href="#"><img src="Preview.png"></a>
+
+</div>
+<nav>
+<ul>
+<li><a href="index.html">НАЧАЛО</a></li>
+ <li><a href="Trains.html">ВЛАКОВЕ</a></li>
+<li><a href="Help.html">ПОМОЩ</a></li>	
+<li><a href="Contacts.html">КОНТАКТИ</a></li>	
+</ul>
+</nav>
+<center>
+<h3>________________________________________________________________________________________________________________________________________________________________________</h3>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<body style="background-color:#F7F7E9">
+<br/>
+<table bgcolor="black">
+ <tr>
+ <th bgcolor="gray" style="color:white">ВСИЧКАТА ИНФОРМАЦИЯ ЗА НАШИТЕ РАЗПИСАНИЯ (ЗА ВЛАКОВЕТЕ В БЪЛГАРИЯ И ЗА СКОРОШНИ ДНИ) МОЖЕ ДА НАМЕРИТЕ ТУК </th>
+ <tr/>
+
+</table>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<a href="SOFIA-VARNA.html" target="_blank">
+<button 
+style="background-color:#3e7d78; 
+color:white; 
+border-radius: 8px;
+height: 60px;
+width: 250px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow' , Aria,
+sans-serif;
+
+">СОФИЯ-ВАРНА</button>
+<a/>
+&nbsp
+<a href="SOFIA-PLEVEN.html" target="_blank">
+<button 
+style="background-color:#3e7d78; 
+color:white; 
+border-radius: 8px;
+height: 60px;
+width: 250px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow' , Aria,
+sans-serif;
+
+">СОФИЯ-ПЛЕВЕН</button>
+<a/>
+&nbsp
+
+<a href="SOFIA-BURGAS.html" target="_blank">
+<button 
+style="background-color:#3e7d78; 
+color:white; 
+border-radius: 8px;
+height: 60px;
+width: 250px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow' , Aria,
+sans-serif;
+
+">СОФИЯ-БУРГАС</button>
+<a/>
+<br>
+<br>
+<a href="SOFIA-STARA ZAGORA.html" target="_blank">
+<button 
+style="background-color:#3e7d78; 
+color:white; 
+border-radius: 8px;
+height: 60px;
+width: 250px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow' , Aria,
+sans-serif;
+
+">СОФИЯ-СТАРА ЗАГОРА</button>
+<a/>
+&nbsp
+
+<a href="SOFIA-PAZARDZHIK.html" target="_blank">
+<button 
+style="background-color:#3e7d78; 
+color:white; 
+border-radius: 8px;
+height: 60px;
+width: 250px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow' , Aria,
+sans-serif;
+
+">СОФИЯ-ПАЗАРДЖИК</button>
+<a/>
+&nbsp
+
+<a href="SOFIA-GABROVO.html" target="_blank">
+<button 
+style="background-color:#3e7d78; 
+color:white; 
+border-radius: 8px;
+height: 60px;
+width: 250px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow' , Aria,
+sans-serif;
+
+">СОФИЯ-ГАБРОВО</button>
+<a/> 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<table bgcolor="black">
+   <tr>
+      <th bgcolor="gray" style="color:white">&nbsp А ВСИЧКАТА ИНФОРМАЦИЯ ЗА НАШИТЕ ВЛАКОВЕ МОЖЕ ДА НАМЕРИТЕ ТУК &nbsp<th/>
+   <tr/>
+<table/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<table bgcolor="000000">
+   <tr>
+      <th bgcolor="white" style="color:"black" align= "left">   ВЛАК №1 - 46 219.2 с RБВ 8612  "слънчев Бряг" - 1. 66 20.03.2017 &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+	  <br><br> <img src="Влакове1.jpg" > &nbsp 46 219.2 с RБВ 8611 „Слънчев Бряг“ на гара Чирпан <br> в първия си ден от новия си график за 150 km/h – 1 юли 2017 г. Той е признат, като един от най-добрите подвижни влакове. 
+	  Самото му име, макар и объркващо, говори за престиж, услуга от топ класа и бързина. <br><br><br> <h1>___________________________________________________________________<h1/> <br><br><br> ВЛАК №2 - BLUE TRAIN &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <br><br> <img src="Blue Train.jfif"> &nbsp Пътува приблизително 1600 км (990 мили) между Претория и Кейптаун, предлагайки обслужване с иконом в класическа обстановка. 
+	  Услугата се рекламира като „прекрасен движещ се 5-звезден хотел“ от неговия оператор, който отбелязва, че крале и президенти са пътували с него. <br><br><br> <h1>___________________________________________________________________<h1/> <br><br><br>  ВЛАК №3 - ASAHI &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <br><br> <img src="file:///C:/Users/User/Desktop/Code%20Wars%202024%20Site/Влакове3.jpg"> 
+ &nbsp Asahi беше влакова услуга с ограничени спирки, която работеше до ноември 2002 г. в Япония по високоскоростната линия Joetsu Shinkansen между Токио и Ниигата. Услугите на Asahi shinkansen се изпълняваха приблизително на всеки час, като на две услуги надолу (Asahi 1 и 3) беше разрешено да работят с 275 km/h в участъка на тунела между Jōmō-Kōgen и Urasa, използвайки специално модифицирани комплекти от серия 200 (F90),
+ завършвайки пътуването в 1 час и 40 минути (в сравнение с най-бързото време за пътуване от 1 час и 37 минути през 2008 г. за услуги на Toki, работещи с максимална скорост от 240 км/ч). <br><br><br> <h1>___________________________________________________________________<h1/> <br><br><br> ВЛАК №4 - HAYABUSA &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <br><br> <img src="file:///C:/Users/User/Desktop/Code%20Wars%202024%20Site/Влакове4.jpg">  Hayabusa  е високоскоростна шинкансен услуга, управлявана от East Japan Railway Company (JR East) и Hokkaido Railway Company (JR Hokkaido) между Токио и Shin-Hakodate-Hokuto 
+ в Япония от 26 март 2016 г. Името беше използвано преди за ограничена експресна услуга за спални вагони, управлявана от JR Kyushu, която се движеше от Токио до Кумамото и беше прекратена през март 2009 г. <br><br><br> <h1>___________________________________________________________________<h1/> <br><br><br> ВЛАК №5 - Красная стрела (The Red Arrow) &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <br><br> <img src="file:///C:/Users/User/Desktop/Code%20Wars%202024%20Site/Влакове5.jpg"> Червената стрела (на руски: Кра́сная стрела́) е руски нощен спален влак, свързващ Москва и Санкт Петербург чрез железопътната линия Москва–Санкт Петербург. 
+Червената стрела разполага с вагон-ресторант, VIP вагони, както и вагони 1-ва и 2-ра класа. При оформянето на интериора на купейните вагони се използва предимно дърво. ВИП вагоните са с ниско ниво на шум, вентилационна система, спално легло с отварящ се покрив, подвижна маса, бутон за повикване на кондуктора, баня и екологична тоалетна. <br><br><br> <h1>___________________________________________________________________<h1/> <br><br><br> ВЛАК №6 - КПВ 10211  &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <br><br> <img src="file:///C:/Users/User/Desktop/Code%20Wars%202024%20Site/Влакове6.jfif"> Влак КПВ 10211 е част от българската жп мрежа.
+Обикновено такъв тип влакове обслужват междуградски маршрути и предлагат удобства за пътниците, като комфортни седалки и често климатизация. В зависимост от маршрута, влакът може да спира на множество гари, предоставяйки бърз и удобен транспорт за пътуващите. Максималната скорост на влака е около 120-140 км/ч, в зависимост от секцията на линията и условията на движение. <br><br><br> <h1>___________________________________________________________________<h1/> <br><br><br> ВЛАК №7 - БВ 3624 &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <br><br> <img src="file:///D:/Git/Влакове7.jfif"> 
+Влак БВ 3624 е част от българската железопътна мрежа и обикновено обслужва междуградски маршрути. Максималната му скорост е около 120-140 км/ч, в зависимост от линията и условията на движение. Предлага комфортни седалки и климатизация, а също така често осигурява информация за спиранията. Влакът обикновено преминава през важни гари и осигурява достъп до различни региони. <br><br> <th/>
+   <tr/>
+<table/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<h1 style="font-size:bold" background-color="gray">___________________________________________________________________________________________________________________________________________________</h1>
+<br/>
+<br/>
+<h4 style="color:#ba0e0e"> TRACKS AHEAD (1999-NOW)<h4/> 
+
+</ul>
+</nav>
+
+</body>
+</html>
